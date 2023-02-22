@@ -22,12 +22,11 @@ packaging==21.3
 pipreqs==0.4.11
 platformdirs==2.4.0
 pluggy==1.0.0
-py==1.11.0
 pycodestyle==2.8.0
 pycparser==2.21
 PyJWT==2.4.0
 pyparsing==3.0.6
-pytest==7.2.0
+pytest>=7.2.0
 python-dotenv==0.19.2
 pytz==2021.3
 requests==2.26.0
